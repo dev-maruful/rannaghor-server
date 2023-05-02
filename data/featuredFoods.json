@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "food_name": "Chicken Curry",
+    "food_picture": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?size=626&ext=jpg&ga=GA1.2.857116354.1678803730&semt=ais"
+  },
+  {
+    "id": 2,
+    "food_name": "Beef Biryani",
+    "food_picture": "https://img.freepik.com/free-photo/top-close-up-view-pilaf-dried-fruits-rice-meat-bowl-wooden-spoon_140725-78655.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais"
+  },
+  {
+    "id": 3,
+    "food_name": "Shrimp Fry",
+    "food_picture": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais"
+  },
+  {
+    "id": 4,
+    "food_name": "Vegetable Pulao",
+    "food_picture": "https://img.freepik.com/free-photo/top-view-delicious-vegan-salad-with-various-vegetables_140725-134932.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais"
+  },
+  {
+    "id": 5,
+    "food_name": "Fish Kebab",
+    "food_picture": "https://img.freepik.com/free-photo/fried-fish-with-vegetables-wooden-board_140725-9672.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais"
+  },
+  {
+    "id": 6,
+    "food_name": "Mutton Rezala",
+    "food_picture": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19702.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais"
+  }
+]
