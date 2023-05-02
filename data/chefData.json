@@ -5,7 +5,8 @@
     "chef_name": "Farhana Ahmed",
     "years_of_experience": 10,
     "number_of_recipes": 75,
-    "likes": 1350
+    "likes": 1350,
+    "bio": "Chef Farhana Ahmed has been cooking for over a decade, honing her skills in traditional Bengali cuisine. She started her career as a line cook in a local restaurant and quickly rose to the position of head chef. Over the years, she has developed her own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. She is known for her flavorful curries and spicy biryanis, which have won her numerous awards and accolades."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "chef_name": "Md. Rahman",
     "years_of_experience": 15,
     "number_of_recipes": 120,
-    "likes": 2560
+    "likes": 2560,
+    "bio": "Chef Md. Rahman has over 15 years of experience in the kitchen and is known for his expertly spiced dishes. He started his culinary journey as a teenager, working as an apprentice in a local restaurant. Over the years, he has honed his skills and developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. His specialties include seafood and meat curries, as well as traditional lentil soups."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "chef_name": "Sabrina Ahmed",
     "years_of_experience": 5,
     "number_of_recipes": 50,
-    "likes": 980
+    "likes": 980,
+    "bio": "Chef Sabrina Ahmed is a rising star in the culinary world, having gained recognition for her creative fusion dishes that combine Bengali and international flavors. She started her career as a food blogger, sharing her unique recipes and flavor combinations with the world. Her passion for cooking and innovative approach to cuisine quickly gained her a large following, and she eventually opened her own restaurant. Her signature dishes include shrimp and mango salad and chicken tikka masala."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "chef_name": "Mashrur Hossain",
     "years_of_experience": 8,
     "number_of_recipes": 65,
-    "likes": 1200
+    "likes": 1200,
+    "bio": "Chef Mashrur Hossain specializes in traditional Bengali dishes and has been cooking for over 8 years. He started his culinary journey as a line cook in a local restaurant and quickly developed a passion for Bengali cuisine. Over the years, he has honed his skills and developed his own unique style of cooking, which emphasizes the use of fresh, locally-sourced ingredients. He is known for his expertise in creating authentic biryanis and kebabs, as well as his delicious lentil stews and curries."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "chef_name": "Taslima Rahman",
     "years_of_experience": 12,
     "number_of_recipes": 90,
-    "likes": 2000
+    "likes": 2000,
+    "bio": "Chef Taslima Rahman has over a decade of experience in cooking and specializes in vegetarian and vegan cuisine. She started her culinary journey as a teenager,working in her family's vegetarian restaurant, where she developed a love for creating flavorful and healthy dishes. Over the years, she has experimented with a wide variety of ingredients and techniques, developing her own unique style of cooking that emphasizes the use of fresh, seasonal produce. She is known for her delicious and nutritious vegetable curries, lentil soups, and tofu stir-fries, which have won her numerous awards and a dedicated following of health-conscious foodies."
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "chef_name": "Sohel Rana",
     "years_of_experience": 20,
     "number_of_recipes": 150,
-    "likes": 3000
+    "likes": 3000,
+    "bio": "Chef Sohel Rana is a seasoned culinary veteran with over 20 years of experience in the kitchen. He started his career as a line cook in a small restaurant and quickly rose through the ranks to become head chef. Over the years, he has developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. He is known for his expertly spiced meat curries and biryanis, as well as his flavorful lentil stews and vegetable sides. His dishes have won him numerous awards and recognition as one of Bangladesh's top chefs."
   }
 ]
