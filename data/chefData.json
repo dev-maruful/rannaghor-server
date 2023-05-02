@@ -4,53 +4,338 @@
     "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
     "chef_name": "Farhana Ahmed",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
+    "number_of_recipes": 7,
     "likes": 1350,
-    "bio": "Chef Farhana Ahmed has been cooking for over a decade, honing her skills in traditional Bengali cuisine. She started her career as a line cook in a local restaurant and quickly rose to the position of head chef. Over the years, she has developed her own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. She is known for her flavorful curries and spicy biryanis, which have won her numerous awards and accolades."
+    "bio": "Chef Farhana Ahmed has been cooking for over a decade, honing her skills in traditional Bengali cuisine. She started her career as a line cook in a local restaurant and quickly rose to the position of head chef. Over the years, she has developed her own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. She is known for her flavorful curries and spicy biryanis, which have won her numerous awards and accolades.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Curry",
+        "recipe_photo": "https://img.freepik.com/free-photo/side-view-stewed-meatballs-with-tomato-sauce-bell-pepper-spring-onion-mint-plate_141793-5117.jpg?size=626&ext=jpg&ga=GA1.2.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb boneless, skinless chicken breast, cut into small pieces",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 tablespoon curry powder",
+          "sixth": "1 teaspoon turmeric",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "Heat the oil in a large skillet over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the chicken and sauté until browned on all sides, about 5 minutes. Add the curry powder, turmeric, cumin, coriander, paprika, and cayenne pepper and stir until the chicken is coated with the spices.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Lentil Soup",
+        "recipe_photo": "https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_114579-3083.jpg?size=626&ext=jpg&ga=GA1.2.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 cup red lentils, rinsed and drained",
+          "second": "2 carrots, peeled and chopped",
+          "third": "2 celery stalks, chopped",
+          "fourth": "1 teaspoon ground cumin",
+          "fifth": "1/2 teaspoon ground cinnamon",
+          "sixth": "4 cups chicken or vegetable broth",
+          "seventh": "2 tablespoons olive oil",
+          "eighth": "Lemon wedges for garnish"
+        },
+        "cooking_method": "Heat the oil in a large pot over medium heat. Add the onion and sauté until softened, about 5 minutes. Add the garlic, carrots, and celery and sauté for another 5 minutes. Add the cumin, coriander, and cinnamon and stir until fragrant, about 1 minute. Add the lentils and broth and bring to a boil.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "recipe_photo": "https://img.freepik.com/free-photo/fried-vegetables-with-sauce-pan_1220-5230.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 bell pepper, sliced",
+          "second": "1 onion, sliced",
+          "third": "1 carrot, sliced",
+          "fourth": "1 broccoli crown, cut into florets",
+          "fifth": "1 zucchini, sliced"
+        },
+        "cooking_method": "In a small bowl, whisk together the soy sauce, honey, rice vinegar, and cornstarch until smooth. Heat the oil in a large skillet over high heat. Add the vegetables and sauté for 3-4 minutes, until slightly softened. Pour the sauce over the vegetables and stir until the vegetables are coated.",
+        "ratings": 3.5
+      }
+    ]
   },
   {
     "id": 2,
     "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-21131.jpg?size=626&ext=jpg",
     "chef_name": "Md. Rahman",
     "years_of_experience": 15,
-    "number_of_recipes": 120,
+    "number_of_recipes": 12,
     "likes": 2560,
-    "bio": "Chef Md. Rahman has over 15 years of experience in the kitchen and is known for his expertly spiced dishes. He started his culinary journey as a teenager, working as an apprentice in a local restaurant. Over the years, he has honed his skills and developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. His specialties include seafood and meat curries, as well as traditional lentil soups."
+    "bio": "Chef Md. Rahman has over 15 years of experience in the kitchen and is known for his expertly spiced dishes. He started his culinary journey as a teenager, working as an apprentice in a local restaurant. Over the years, he has honed his skills and developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. His specialties include seafood and meat curries, as well as traditional lentil soups.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Kebabs",
+        "recipe_photo": "https://img.freepik.com/free-photo/azerbaijani-lyulya-kebab-with-potatoes-vegetables_140725-908.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb beef sirloin, cut into small cubes",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon coriander",
+          "sixth": "1/2 teaspoon paprika",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large bowl, mix together the onion, garlic, ginger paste, cumin, coriander, paprika, cinnamon, salt, and pepper. Add the beef cubes and stir until the beef is coated with the spice mixture. Thread the beef onto wooden skewers. Grill the kebabs over medium-high heat for 10-12 minutes, turning occasionally, until the beef is cooked to your liking. Serve hot, garnished with chopped parsley.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Lentil Salad",
+        "recipe_photo": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 cup green lentils, rinsed and drained",
+          "second": "1/2 red onion, chopped",
+          "third": "1 red bell pepper, chopped",
+          "fourth": "1/2 cup chopped fresh parsley",
+          "fifth": "1/4 cup olive oil",
+          "sixth": "2 tablespoons red wine vinegar"
+        },
+        "cooking_method": "In a medium pot, bring 2 cups of water to a boil. Add the lentils and reduce heat to low. Simmer for 20-25 minutes, until the lentils are tender. Drain any excess water and let the lentils cool. In a large bowl, mix together the lentils, onion, bell pepper, and parsley..",
+        "ratings": 3.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Biryani",
+        "recipe_photo": "https://img.freepik.com/free-photo/top-close-up-view-spices-colorful-spices-pilaf-board-garlic_140725-78723.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb boneless, skinless chicken breast, cut into small pieces",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large pot, heat the oil over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the chicken and sauté until the chicken is browned on all sides, about 7-8 minutes. Add the cumin, coriander, turmeric, garam masala, salt, and pepper and stir to coat the chicken..",
+        "ratings": 4.5
+      }
+    ]
   },
   {
     "id": 3,
     "chef_picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-holding-plate-with-food-pink-desk-cook-job-kitchen-cuisine-food_140725-35293.jpg?w=826&t=st=1683003560~exp=1683004160~hmac=82a9e07d609b34aa76b0e23cb923830cabd361fd44c9529614c4062b6c066f5c",
     "chef_name": "Sabrina Ahmed",
     "years_of_experience": 5,
-    "number_of_recipes": 50,
+    "number_of_recipes": 5,
     "likes": 980,
-    "bio": "Chef Sabrina Ahmed is a rising star in the culinary world, having gained recognition for her creative fusion dishes that combine Bengali and international flavors. She started her career as a food blogger, sharing her unique recipes and flavor combinations with the world. Her passion for cooking and innovative approach to cuisine quickly gained her a large following, and she eventually opened her own restaurant. Her signature dishes include shrimp and mango salad and chicken tikka masala."
+    "bio": "Chef Sabrina Ahmed is a rising star in the culinary world, having gained recognition for her creative fusion dishes that combine Bengali and international flavors. She started her career as a food blogger, sharing her unique recipes and flavor combinations with the world. Her passion for cooking and innovative approach to cuisine quickly gained her a large following, and she eventually opened her own restaurant. Her signature dishes include shrimp and mango salad and chicken tikka masala.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Shrimp Curry",
+        "recipe_photo": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb shrimp, peeled and deveined",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "2 tomatoes, chopped",
+          "sixth": "1 teaspoon coriander",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large pot, heat the oil over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the tomatoes and sauté for another 3-4 minutes, until the tomatoes have softened. Add the cumin, coriander, turmeric, chili powder, salt, and pepper and stir to coat the vegetables.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Pakoras",
+        "recipe_photo": "https://img.freepik.com/free-photo/azerbaijani-traditional-kuku-table_140725-885.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 cup chickpea flour",
+          "second": "1/4 cup rice flour",
+          "third": "1/2 teaspoon baking powder",
+          "fourth": "1/2 teaspoon cumin",
+          "fifth": "1/2 teaspoon coriander",
+          "sixth": "1/2 teaspoon turmeric",
+          "seventh": "1/2 teaspoon chili powder",
+          "eighth": "Salt to taste"
+        },
+        "cooking_method": "In a large bowl, whisk together the chickpea flour, rice flour, baking powder, cumin, coriander, turmeric, chili powder, and salt. Add the chopped vegetables and stir until they are coated with the batter. Drain any excess water and let the lentils cool. In a large skillet, heat the vegetable oil over medium-high heat.",
+        "ratings": 3.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Spicy Shrimp Tacos",
+        "recipe_photo": "https://img.freepik.com/free-photo/mexican-tacos-wih-shrimp-vegetables_123827-22454.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 pound large shrimp, peeled and deveined",
+          "second": "1 tablespoon olive oil",
+          "third": "1/2 teaspoon garlic powder",
+          "fourth": "1/2 teaspoon cumin",
+          "fifth": "1/2 teaspoon smoked paprika"
+        },
+        "cooking_method": "Preheat the oven to 375°F. In a small bowl, mix together the olive oil, garlic powder, cumin, smoked paprika, salt, and pepper. Arrange the shrimp in a single layer on a baking sheet and bake for 6-8 minutes or until they are cooked through. Warm the tortillas in the oven for 1-2 minutes. Assemble the tacos by placing some shredded lettuce on each tortilla, followed by a few shrimp, sliced avocado, chopped cilantro, and a squeeze of lime juice.",
+        "ratings": 4.5
+      }
+    ]
   },
   {
     "id": 4,
     "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-isolated-pink-wall-with-copy-space_141793-101303.jpg?size=626&ext=jpg",
     "chef_name": "Mashrur Hossain",
     "years_of_experience": 8,
-    "number_of_recipes": 65,
+    "number_of_recipes": 6,
     "likes": 1200,
-    "bio": "Chef Mashrur Hossain specializes in traditional Bengali dishes and has been cooking for over 8 years. He started his culinary journey as a line cook in a local restaurant and quickly developed a passion for Bengali cuisine. Over the years, he has honed his skills and developed his own unique style of cooking, which emphasizes the use of fresh, locally-sourced ingredients. He is known for his expertise in creating authentic biryanis and kebabs, as well as his delicious lentil stews and curries."
+    "bio": "Chef Mashrur Hossain specializes in traditional Bengali dishes and has been cooking for over 8 years. He started his culinary journey as a line cook in a local restaurant and quickly developed a passion for Bengali cuisine. Over the years, he has honed his skills and developed his own unique style of cooking, which emphasizes the use of fresh, locally-sourced ingredients. He is known for his expertise in creating authentic biryanis and kebabs, as well as his delicious lentil stews and curries.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Kebabs",
+        "ingredients": {
+          "first": "1 lb beef sirloin, cut into small cubes",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon coriander",
+          "sixth": "1/2 teaspoon paprika",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large bowl, mix together the onion, garlic, ginger paste, cumin, coriander, paprika, cinnamon, salt, and pepper. Add the beef cubes and stir until the beef is coated with the spice mixture. Thread the beef onto wooden skewers. Grill the kebabs over medium-high heat for 10-12 minutes, turning occasionally, until the beef is cooked to your liking. Serve hot, garnished with chopped parsley.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Lentil Salad",
+        "ingredients": {
+          "first": "1 cup green lentils, rinsed and drained",
+          "second": "1/2 red onion, chopped",
+          "third": "1 red bell pepper, chopped",
+          "fourth": "1/2 cup chopped fresh parsley",
+          "fifth": "1/4 cup olive oil",
+          "sixth": "2 tablespoons red wine vinegar"
+        },
+        "cooking_method": "In a medium pot, bring 2 cups of water to a boil. Add the lentils and reduce heat to low. Simmer for 20-25 minutes, until the lentils are tender. Drain any excess water and let the lentils cool. In a large bowl, mix together the lentils, onion, bell pepper, and parsley..",
+        "ratings": 3.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Biryani",
+        "ingredients": {
+          "first": "1 lb boneless, skinless chicken breast, cut into small pieces",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large pot, heat the oil over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the chicken and sauté until the chicken is browned on all sides, about 7-8 minutes. Add the cumin, coriander, turmeric, garam masala, salt, and pepper and stir to coat the chicken..",
+        "ratings": 4.5
+      }
+    ]
   },
   {
     "id": 5,
     "chef_picture": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-posing-thinking-holding-silver-spoon_140725-16456.jpg?size=626&ext=jpg",
     "chef_name": "Taslima Rahman",
     "years_of_experience": 12,
-    "number_of_recipes": 90,
+    "number_of_recipes": 9,
     "likes": 2000,
-    "bio": "Chef Taslima Rahman has over a decade of experience in cooking and specializes in vegetarian and vegan cuisine. She started her culinary journey as a teenager,working in her family's vegetarian restaurant, where she developed a love for creating flavorful and healthy dishes. Over the years, she has experimented with a wide variety of ingredients and techniques, developing her own unique style of cooking that emphasizes the use of fresh, seasonal produce. She is known for her delicious and nutritious vegetable curries, lentil soups, and tofu stir-fries, which have won her numerous awards and a dedicated following of health-conscious foodies."
+    "bio": "Chef Taslima Rahman has over a decade of experience in cooking and specializes in vegetarian and vegan cuisine. She started her culinary journey as a teenager,working in her family's vegetarian restaurant, where she developed a love for creating flavorful and healthy dishes. Over the years, she has experimented with a wide variety of ingredients and techniques, developing her own unique style of cooking that emphasizes the use of fresh, seasonal produce. She is known for her delicious and nutritious vegetable curries, lentil soups, and tofu stir-fries, which have won her numerous awards and a dedicated following of health-conscious foodies.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Kebabs",
+        "recipe_photo": "https://img.freepik.com/free-photo/azerbaijani-lyulya-kebab-with-potatoes-vegetables_140725-908.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb beef sirloin, cut into small cubes",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon coriander",
+          "sixth": "1/2 teaspoon paprika",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large bowl, mix together the onion, garlic, ginger paste, cumin, coriander, paprika, cinnamon, salt, and pepper. Add the beef cubes and stir until the beef is coated with the spice mixture. Thread the beef onto wooden skewers. Grill the kebabs over medium-high heat for 10-12 minutes, turning occasionally, until the beef is cooked to your liking. Serve hot, garnished with chopped parsley.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Lentil Salad",
+        "recipe_photo": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 cup green lentils, rinsed and drained",
+          "second": "1/2 red onion, chopped",
+          "third": "1 red bell pepper, chopped",
+          "fourth": "1/2 cup chopped fresh parsley",
+          "fifth": "1/4 cup olive oil",
+          "sixth": "2 tablespoons red wine vinegar"
+        },
+        "cooking_method": "In a medium pot, bring 2 cups of water to a boil. Add the lentils and reduce heat to low. Simmer for 20-25 minutes, until the lentils are tender. Drain any excess water and let the lentils cool. In a large bowl, mix together the lentils, onion, bell pepper, and parsley..",
+        "ratings": 3.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Biryani",
+        "recipe_photo": "https://img.freepik.com/free-photo/top-close-up-view-spices-colorful-spices-pilaf-board-garlic_140725-78723.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb boneless, skinless chicken breast, cut into small pieces",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large pot, heat the oil over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the chicken and sauté until the chicken is browned on all sides, about 7-8 minutes. Add the cumin, coriander, turmeric, garam masala, salt, and pepper and stir to coat the chicken..",
+        "ratings": 4.5
+      }
+    ]
   },
   {
     "id": 6,
     "chef_picture": "https://img.freepik.com/free-photo/confident-young-caucasian-male-cook-chef-uniform-cap-keeping-hands-together-looking-camera-winking-isolated-pink-wall_141793-113821.jpg?size=626&ext=jpg",
     "chef_name": "Sohel Rana",
     "years_of_experience": 20,
-    "number_of_recipes": 150,
+    "number_of_recipes": 15,
     "likes": 3000,
-    "bio": "Chef Sohel Rana is a seasoned culinary veteran with over 20 years of experience in the kitchen. He started his career as a line cook in a small restaurant and quickly rose through the ranks to become head chef. Over the years, he has developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. He is known for his expertly spiced meat curries and biryanis, as well as his flavorful lentil stews and vegetable sides. His dishes have won him numerous awards and recognition as one of Bangladesh's top chefs."
+    "bio": "Chef Sohel Rana is a seasoned culinary veteran with over 20 years of experience in the kitchen. He started his career as a line cook in a small restaurant and quickly rose through the ranks to become head chef. Over the years, he has developed his own unique style of cooking, which blends traditional Bengali spices and techniques with modern twists. He is known for his expertly spiced meat curries and biryanis, as well as his flavorful lentil stews and vegetable sides. His dishes have won him numerous awards and recognition as one of Bangladesh's top chefs.",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Shrimp Curry",
+        "recipe_photo": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 lb shrimp, peeled and deveined",
+          "second": "1 onion, chopped",
+          "third": "2 cloves garlic, minced",
+          "fourth": "1 tablespoon ginger paste",
+          "fifth": "2 tomatoes, chopped",
+          "sixth": "1 teaspoon coriander",
+          "seventh": "1 teaspoon cumin"
+        },
+        "cooking_method": "In a large pot, heat the oil over medium-high heat. Add the onion, garlic, and ginger paste and sauté until the onion is translucent, about 5 minutes. Add the tomatoes and sauté for another 3-4 minutes, until the tomatoes have softened. Add the cumin, coriander, turmeric, chili powder, salt, and pepper and stir to coat the vegetables.",
+        "ratings": 4
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Pakoras",
+        "recipe_photo": "https://img.freepik.com/free-photo/azerbaijani-traditional-kuku-table_140725-885.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 cup chickpea flour",
+          "second": "1/4 cup rice flour",
+          "third": "1/2 teaspoon baking powder",
+          "fourth": "1/2 teaspoon cumin",
+          "fifth": "1/2 teaspoon coriander",
+          "sixth": "1/2 teaspoon turmeric",
+          "seventh": "1/2 teaspoon chili powder",
+          "eighth": "Salt to taste"
+        },
+        "cooking_method": "In a large bowl, whisk together the chickpea flour, rice flour, baking powder, cumin, coriander, turmeric, chili powder, and salt. Add the chopped vegetables and stir until they are coated with the batter. Drain any excess water and let the lentils cool. In a large skillet, heat the vegetable oil over medium-high heat.",
+        "ratings": 3.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Spicy Shrimp Tacos",
+        "recipe_photo": "https://img.freepik.com/free-photo/mexican-tacos-wih-shrimp-vegetables_123827-22454.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
+        "ingredients": {
+          "first": "1 pound large shrimp, peeled and deveined",
+          "second": "1 tablespoon olive oil",
+          "third": "1/2 teaspoon garlic powder",
+          "fourth": "1/2 teaspoon cumin",
+          "fifth": "1/2 teaspoon smoked paprika"
+        },
+        "cooking_method": "Preheat the oven to 375°F. In a small bowl, mix together the olive oil, garlic powder, cumin, smoked paprika, salt, and pepper. Arrange the shrimp in a single layer on a baking sheet and bake for 6-8 minutes or until they are cooked through. Warm the tortillas in the oven for 1-2 minutes. Assemble the tacos by placing some shredded lettuce on each tortilla, followed by a few shrimp, sliced avocado, chopped cilantro, and a squeeze of lime juice.",
+        "ratings": 4.5
+      }
+    ]
   }
 ]

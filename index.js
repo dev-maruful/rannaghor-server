@@ -19,6 +19,12 @@ app.get("/chefdata", (req, res) => {
   res.send(chefData);
 });
 
+app.get("/chefdata/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedChef = chefData.find((cd) => cd.id === id);
+  res.send(selectedChef);
+});
+
 app.get("/featuredfoods", (req, res) => {
   res.send(featuredFoods);
 });
