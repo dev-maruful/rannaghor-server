@@ -5,6 +5,8 @@ const port = process.env.PORT || 3000;
 
 const chefData = require("./data/chefData.json");
 
+app.use(cors());
+
 app.get("/", (req, res) => {
   res.send("Chef data are loading");
 });
