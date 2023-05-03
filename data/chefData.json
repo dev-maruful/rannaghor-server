@@ -183,6 +183,7 @@
       {
         "recipe_id": 1,
         "recipe_name": "Beef Kebabs",
+        "recipe_photo": "https://img.freepik.com/free-photo/azerbaijani-lyulya-kebab-with-potatoes-vegetables_140725-908.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
         "ingredients": {
           "first": "1 lb beef sirloin, cut into small cubes",
           "second": "1 onion, chopped",
@@ -198,6 +199,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Lentil Salad",
+        "recipe_photo": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
         "ingredients": {
           "first": "1 cup green lentils, rinsed and drained",
           "second": "1/2 red onion, chopped",
@@ -212,6 +214,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Chicken Biryani",
+        "recipe_photo": "https://img.freepik.com/free-photo/top-close-up-view-spices-colorful-spices-pilaf-board-garlic_140725-78723.jpg?size=626&ext=jpg&ga=GA1.1.857116354.1678803730&semt=ais",
         "ingredients": {
           "first": "1 lb boneless, skinless chicken breast, cut into small pieces",
           "second": "1 onion, chopped",
